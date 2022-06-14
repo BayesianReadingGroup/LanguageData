@@ -1,0 +1,587 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,gloss_in_source
+DANISH-1-1,,DANISH,1,yEy,yEy,j a j,,1743,,false,^ y E y $,default,I
+DANISH-2-1,,DANISH,2,du,du,d u,,1743,,false,^ d u $,default,you
+DANISH-3-1,,DANISH,3,vi,vi,v i,,1743,,false,^ v i $,default,we
+DANISH-11-1,,DANISH,11,e7n,e7n,e ʔ n,,1743,,false,^ e 7 n $,default,one
+DANISH-12-1,,DANISH,12,to7,to7,t o ʔ,,1743,,false,^ t o 7 $,default,two
+DANISH-18-1,,DANISH,18,mEnsk3,mEnsk3,m a n s k ə,,1743,,false,^ m E n s k 3 $,default,person
+DANISH-19-1,,DANISH,19,fesk,fesk,f e s k,,1743,,false,^ f e s k $,default,fish
+DANISH-21-1,,DANISH,21,hun7,hun7,h u n ʔ,,1743,,false,^ h u n 7 $,default,dog
+DANISH-22-1,,DANISH,22,lus,lus,l u s,,1743,,false,^ l u s $,default,louse
+DANISH-23-1,,DANISH,23,trE7,trE7,t r a ʔ,,1743,,false,^ t r E 7 $,default,tree
+DANISH-25-1,,DANISH,25,blE8,blE8,b l a θ,,1743,,false,^ b l E 8 $,default,leaf
+DANISH-28-1,,DANISH,28,hu87,hu87,h u θ ʔ,,1743,,false,^ h u 8 7 $,default,skin
+DANISH-30-1,,DANISH,30,blo87,blo87,b l o θ ʔ,,1743,,false,^ b l o 8 7 $,default,blood
+DANISH-31-1,,DANISH,31,ben,ben,b e n,,1743,,false,^ b e n $,default,bone
+DANISH-34-1,,DANISH,34,ho7an,ho7an,h o ʔ ɐ n,,1743,,false,^ h o 7 a n $,default,horn
+DANISH-39-1,,DANISH,39,ea,ea,e ɐ,,1743,,false,^ e a $,default,ear
+DANISH-40-1,,DANISH,40,ay3,ay3,ɐ j ə,,1743,,false,^ a y 3 $,default,eye
+DANISH-41-1,,DANISH,41,nEs3,nEs3,n a s ə,,1743,,false,^ n E s 3 $,default,nose
+DANISH-43-1,,DANISH,43,tEn7,tEn7,t a n ʔ,,1743,,false,^ t E n 7 $,default,tooth
+DANISH-44-1,,DANISH,44,toN3,toN3,t o ŋ ə,,1743,,false,^ t o N 3 $,default,tongue
+DANISH-47-1,,DANISH,47,knE7,knE7,k n a ʔ,,1743,,false,^ k n E 7 $,default,knee
+DANISH-48-1,,DANISH,48,han7,han7,h ɐ n ʔ,,1743,,false,^ h a n 7 $,default,hand
+DANISH-51-1,,DANISH,51,brest,brest,b r e s t,,1743,,false,^ b r e s t $,default,breast
+DANISH-53-1,,DANISH,53,lewa,lewa,l e w ɐ,,1743,,false,^ l e w a $,default,liver
+DANISH-54-1,,DANISH,54,drEg3,drEg3,d r a g ə,,1743,,false,^ d r E g 3 $,default,drink
+DANISH-57-1,,DANISH,57,se7,se7,s e ʔ,,1743,,false,^ s e 7 $,default,see
+DANISH-58-1,,DANISH,58,hea,hea,h e ɐ,,1743,,false,^ h e a $,default,hear
+DANISH-61-1,,DANISH,61,de7,de7,d e ʔ,,1743,,false,^ d e 7 $,default,die
+DANISH-66-1,,DANISH,66,kam3,kam3,k ɐ m ə,,1743,,false,^ k a m 3 $,default,come
+DANISH-72-1,,DANISH,72,sol,sol,s o l,,1743,,false,^ s o l $,default,sun
+DANISH-74-1,,DANISH,74,styEan3,styEan3,s t j a ɐ n ə,,1743,,false,^ s t y E a n 3 $,default,star
+DANISH-75-1,,DANISH,75,vEn7,vEn7,v a n ʔ,,1743,,false,^ v E n 7 $,default,water
+DANISH-77-1,,DANISH,77,sten,sten,s t e n,,1743,,false,^ s t e n $,default,stone
+DANISH-82-1,,DANISH,82,il7,il7,i l ʔ,,1743,,false,^ i l 7 $,default,fire
+DANISH-85-1,,DANISH,85,sti7,sti7,s t i ʔ,,1743,,false,^ s t i 7 $,default,path
+DANISH-86-1,,DANISH,86,byw7,by~Ew7,bʲ a w ʔ,,1743,,false,^ by~ E w 7 $,default,mountain
+DANISH-92-1,,DANISH,92,nEt,nEt,n a t,,1743,,false,^ n E t $,default,night
+DANISH-95-1,,DANISH,95,ful7,ful7,f u l ʔ,,1743,,false,^ f u l 7 $,default,full
+DANISH-96-1,,DANISH,96,ni7,ni7,n i ʔ,,1743,,false,^ n i 7 $,default,new
+DANISH-100-1,,DANISH,100,naw7n,naw7n,n ɐ w ʔ n,,1743,,false,^ n a w 7 n $,default,name
+DUTCH-1-1,,DUTCH,1,ik,ik,i k,,2013,,false,^ i k $,default,I
+DUTCH-2-1,,DUTCH,2,yEi,yEi,j a i,,2013,,false,^ y E i $,default,you
+DUTCH-2-2,,DUTCH,2,y3,y3,j ə,,2013,,false,^ y 3 $,default,you
+DUTCH-3-1,,DUTCH,3,vEi,vEi,v a i,,2013,,false,^ v E i $,default,we
+DUTCH-3-2,,DUTCH,3,v3,v3,v ə,,2013,,false,^ v 3 $,default,we
+DUTCH-11-1,,DUTCH,11,en,en,e n,,2013,,false,^ e n $,default,one
+DUTCH-12-1,,DUTCH,12,tve,tve,t v e,,2013,,false,^ t v e $,default,two
+DUTCH-18-1,,DUTCH,18,pErson,pErson,p a r s o n,,2013,,true,^ p E r s o n $,default,person
+DUTCH-18-2,,DUTCH,18,mEns,mEns,m a n s,,2013,,false,^ m E n s $,default,person
+DUTCH-19-1,,DUTCH,19,vis,vis,v i s,,2013,,false,^ v i s $,default,fish
+DUTCH-21-1,,DUTCH,21,hont,hont,h o n t,,2013,,false,^ h o n t $,default,dog
+DUTCH-22-1,,DUTCH,22,l3is,l3is,l ə i s,,2013,,false,^ l 3 i s $,default,louse
+DUTCH-23-1,,DUTCH,23,bom,bom,b o m,,2013,,false,^ b o m $,default,tree
+DUTCH-25-1,,DUTCH,25,blat,blat,b l ɐ t,,2013,,false,^ b l a t $,default,leaf
+DUTCH-28-1,,DUTCH,28,h3id,h3id,h ə i d,,2013,,false,^ h 3 i d $,default,skin
+DUTCH-28-2,,DUTCH,28,vEl,vEl,v a l,,2013,,false,^ v E l $,default,skin
+DUTCH-30-1,,DUTCH,30,blut,blut,b l u t,,2013,,false,^ b l u t $,default,blood
+DUTCH-31-1,,DUTCH,31,ben,ben,b e n,,2013,,false,^ b e n $,default,bone
+DUTCH-34-1,,DUTCH,34,horn,horn,h o r n,,2013,,false,^ h o r n $,default,horn
+DUTCH-39-1,,DUTCH,39,or,or,o r,,2013,,false,^ o r $,default,ear
+DUTCH-40-1,,DUTCH,40,oX,oX,o χ,,2013,,false,^ o X $,default,eye
+DUTCH-41-1,,DUTCH,41,nes,nes,n e s,,2013,,false,^ n e s $,default,nose
+DUTCH-43-1,,DUTCH,43,tant,tant,t ɐ n t,,2013,,false,^ t a n t $,default,tooth
+DUTCH-44-1,,DUTCH,44,toN,toN,t o ŋ,,2013,,false,^ t o N $,default,tongue
+DUTCH-47-1,,DUTCH,47,kni,kni,k n i,,2013,,false,^ k n i $,default,knee
+DUTCH-48-1,,DUTCH,48,hant,hant,h ɐ n t,,2013,,false,^ h a n t $,default,hand
+DUTCH-51-1,,DUTCH,51,borst,borst,b o r s t,,2013,,false,^ b o r s t $,default,breast
+DUTCH-53-1,,DUTCH,53,lev3r,lev3r,l e v ə r,,2013,,false,^ l e v 3 r $,default,liver
+DUTCH-54-1,,DUTCH,54,driNk3n,driNk3n,d r i ŋ k ə n,,2013,,false,^ d r i N k 3 n $,default,drink
+DUTCH-57-1,,DUTCH,57,zin,zin,z i n,,2013,,false,^ z i n $,default,see
+DUTCH-58-1,,DUTCH,58,hor3n,hor3n,h o r ə n,,2013,,false,^ h o r 3 n $,default,hear
+DUTCH-61-1,,DUTCH,61,stErv3n,stErv3n,s t a r v ə n,,2013,,false,^ s t E r v 3 n $,default,die
+DUTCH-66-1,,DUTCH,66,kom3n,kom3n,k o m ə n,,2013,,false,^ k o m 3 n $,default,come
+DUTCH-72-1,,DUTCH,72,zon,zon,z o n,,2013,,false,^ z o n $,default,sun
+DUTCH-74-1,,DUTCH,74,ster,ster,s t e r,,2013,,false,^ s t e r $,default,star
+DUTCH-75-1,,DUTCH,75,vat3r,vat3r,v ɐ t ə r,,2013,,false,^ v a t 3 r $,default,water
+DUTCH-77-1,,DUTCH,77,sten,sten,s t e n,,2013,,false,^ s t e n $,default,stone
+DUTCH-82-1,,DUTCH,82,vir,vir,v i r,,2013,,false,^ v i r $,default,fire
+DUTCH-85-1,,DUTCH,85,pat,pat,p ɐ t,,2013,,false,^ p a t $,default,path
+DUTCH-85-2,,DUTCH,85,vEx,vEx,v a x,,2013,,false,^ v E x $,default,path
+DUTCH-86-1,,DUTCH,86,bErx,bErx,b a r x,,2013,,false,^ b E r x $,default,mountain
+DUTCH-92-1,,DUTCH,92,nat,nat,n ɐ t,,2013,,false,^ n a t $,default,night
+DUTCH-95-1,,DUTCH,95,vol,vol,v o l,,2013,,false,^ v o l $,default,full
+DUTCH-96-1,,DUTCH,96,niu,niu,n i u,,2013,,false,^ n i u $,default,new
+DUTCH-100-1,,DUTCH,100,nam,nam,n ɐ m,,2013,,false,^ n a m $,default,name
+ENGLISH-1-1,,ENGLISH,1,Ei,Ei,a i,,2165,,false,^ E i $,default,I
+ENGLISH-2-1,,ENGLISH,2,yu,yu,j u,,2165,,false,^ y u $,default,you
+ENGLISH-3-1,,ENGLISH,3,wi,wi,w i,,2165,,false,^ w i $,default,we
+ENGLISH-4-1,,ENGLISH,4,8is,8is,θ i s,,2165,,false,^ 8 i s $,default,this
+ENGLISH-5-1,,ENGLISH,5,8Et,8Et,θ a t,,2165,,false,^ 8 E t $,default,that
+ENGLISH-6-1,,ENGLISH,6,hu,hu,h u,,2165,,false,^ h u $,default,who
+ENGLISH-7-1,,ENGLISH,7,wht,wh~at,w ɐ t,,2165,,false,^ wh~at $,default,what
+ENGLISH-8-1,,ENGLISH,8,nat,nat,n ɐ t,,2165,,false,^ n a t $,default,not
+ENGLISH-9-1,,ENGLISH,9,ol,ol,o l,,2165,,false,^ o l $,default,all
+ENGLISH-10-1,,ENGLISH,10,mini,mini,m i n i,,2165,,false,^ m i n i $,default,many
+ENGLISH-11-1,,ENGLISH,11,w3n,w3n,w ə n,,2165,,false,^ w 3 n $,default,one
+ENGLISH-12-1,,ENGLISH,12,tu,tu,t u,,2165,,false,^ t u $,default,two
+ENGLISH-13-1,,ENGLISH,13,big,big,b i g,,2165,,false,^ b i g $,default,big
+ENGLISH-14-1,,ENGLISH,14,loN,loN,l o ŋ,,2165,,false,^ l o N $,default,long
+ENGLISH-15-1,,ENGLISH,15,smal,smal,s m ɐ l,,2165,,false,^ s m a l $,default,small
+ENGLISH-15-2,,ENGLISH,15,litl,litl,l i t l,,2165,,false,^ l i t l $,default,small
+ENGLISH-16-1,,ENGLISH,16,wum3n,wum3n,w u m ə n,,2165,,false,^ w u m 3 n $,default,woman
+ENGLISH-17-1,,ENGLISH,17,mEn,mEn,m a n,,2165,,false,^ m E n $,default,man
+ENGLISH-18-1,,ENGLISH,18,prs3n,prs3n,p r s ə n,,2165,,true,^ p r s 3 n $,default,person
+ENGLISH-19-1,,ENGLISH,19,fiS,fiS,f i ʃ,,2165,,false,^ f i S $,default,fish
+ENGLISH-20-1,,ENGLISH,20,b3rd,b3rd,b ə r d,,2165,,false,^ b 3 r d $,default,bird
+ENGLISH-21-1,,ENGLISH,21,dag,dag,d ɐ g,,2165,,false,^ d a g $,default,dog
+ENGLISH-22-1,,ENGLISH,22,laus,laus,l ɐ u s,,2165,,false,^ l a u s $,default,louse
+ENGLISH-23-1,,ENGLISH,23,tri,tri,t r i,,2165,,false,^ t r i $,default,tree
+ENGLISH-24-1,,ENGLISH,24,sid,sid,s i d,,2165,,false,^ s i d $,default,seed
+ENGLISH-25-1,,ENGLISH,25,lif,lif,l i f,,2165,,false,^ l i f $,default,leaf
+ENGLISH-26-1,,ENGLISH,26,rut,rut,r u t,,2165,,false,^ r u t $,default,root
+ENGLISH-27-1,,ENGLISH,27,bark,bark,b ɐ r k,,2165,,true,^ b a r k $,default,bark
+ENGLISH-28-1,,ENGLISH,28,skin,skin,s k i n,,2165,,true,^ s k i n $,default,skin
+ENGLISH-29-1,,ENGLISH,29,flES,flES,f l a ʃ,,2165,,false,^ f l E S $,default,flesh
+ENGLISH-29-2,,ENGLISH,29,mit,mit,m i t,,2165,,false,^ m i t $,default,flesh
+ENGLISH-30-1,,ENGLISH,30,bl3d,bl3d,b l ə d,,2165,,false,^ b l 3 d $,default,blood
+ENGLISH-31-1,,ENGLISH,31,bon,bon,b o n,,2165,,false,^ b o n $,default,bone
+ENGLISH-32-1,,ENGLISH,32,gris,gris,g r i s,,2165,,true,^ g r i s $,default,grease
+ENGLISH-33-1,,ENGLISH,33,eg,eg,e g,,2165,,true,^ e g $,default,egg
+ENGLISH-34-1,,ENGLISH,34,horn,horn,h o r n,,2165,,false,^ h o r n $,default,horn
+ENGLISH-35-1,,ENGLISH,35,tel,tel,t e l,,2165,,false,^ t e l $,default,tail
+ENGLISH-36-1,,ENGLISH,36,fE8r,fE8r,f a θ r,,2165,,false,^ f E 8 r $,default,feather
+ENGLISH-37-1,,ENGLISH,37,hEr,hEr,h a r,,2165,,false,^ h E r $,default,hair
+ENGLISH-38-1,,ENGLISH,38,hEd,hEd,h a d,,2165,,false,^ h E d $,default,head
+ENGLISH-39-1,,ENGLISH,39,ir,ir,i r,,2165,,false,^ i r $,default,ear
+ENGLISH-40-1,,ENGLISH,40,Ei,Ei,a i,,2165,,false,^ E i $,default,eye
+ENGLISH-41-1,,ENGLISH,41,noz,noz,n o z,,2165,,false,^ n o z $,default,nose
+ENGLISH-42-1,,ENGLISH,42,mau8,mau8,m ɐ u θ,,2165,,false,^ m a u 8 $,default,mouth
+ENGLISH-43-1,,ENGLISH,43,tu8,tu8,t u θ,,2165,,false,^ t u 8 $,default,tooth
+ENGLISH-44-1,,ENGLISH,44,t3N,t3N,t ə ŋ,,2165,,false,^ t 3 N $,default,tongue
+ENGLISH-45-1,,ENGLISH,45,klo,klo,k l o,,2165,,false,^ k l o $,default,claw
+ENGLISH-46-1,,ENGLISH,46,fut,fut,f u t,,2165,,false,^ f u t $,default,foot
+ENGLISH-47-1,,ENGLISH,47,ni,ni,n i,,2165,,false,^ n i $,default,knee
+ENGLISH-48-1,,ENGLISH,48,hEnd,hEnd,h a n d,,2165,,false,^ h E n d $,default,hand
+ENGLISH-49-1,,ENGLISH,49,bEli,bEli,b a l i,,2165,,false,^ b E l i $,default,belly
+ENGLISH-50-1,,ENGLISH,50,nEk,nEk,n a k,,2165,,false,^ n E k $,default,neck
+ENGLISH-51-1,,ENGLISH,51,brEst,brEst,b r a s t,,2165,,false,^ b r E s t $,default,breast
+ENGLISH-52-1,,ENGLISH,52,hart,hart,h ɐ r t,,2165,,false,^ h a r t $,default,heart
+ENGLISH-53-1,,ENGLISH,53,liv3r,liv3r,l i v ə r,,2165,,false,^ l i v 3 r $,default,liver
+ENGLISH-54-1,,ENGLISH,54,driNk,driNk,d r i ŋ k,,2165,,false,^ d r i N k $,default,drink
+ENGLISH-55-1,,ENGLISH,55,it,it,i t,,2165,,false,^ i t $,default,eat
+ENGLISH-56-1,,ENGLISH,56,bEit,bEit,b a i t,,2165,,false,^ b E i t $,default,bite
+ENGLISH-57-1,,ENGLISH,57,si,si,s i,,2165,,false,^ s i $,default,see
+ENGLISH-58-1,,ENGLISH,58,hir,hir,h i r,,2165,,false,^ h i r $,default,hear
+ENGLISH-59-1,,ENGLISH,59,no,no,n o,,2165,,false,^ n o $,default,know
+ENGLISH-60-1,,ENGLISH,60,slip,slip,s l i p,,2165,,false,^ s l i p $,default,sleep
+ENGLISH-61-1,,ENGLISH,61,dEi,dEi,d a i,,2165,,false,^ d E i $,default,die
+ENGLISH-62-1,,ENGLISH,62,kil,kil,k i l,,2165,,false,^ k i l $,default,kill
+ENGLISH-63-1,,ENGLISH,63,swim,swim,s w i m,,2165,,false,^ s w i m $,default,swim
+ENGLISH-64-1,,ENGLISH,64,flEi,flEi,f l a i,,2165,,false,^ f l E i $,default,fly
+ENGLISH-65-1,,ENGLISH,65,wok,wok,w o k,,2165,,false,^ w o k $,default,walk
+ENGLISH-66-1,,ENGLISH,66,k3m,k3m,k ə m,,2165,,false,^ k 3 m $,default,come
+ENGLISH-67-1,,ENGLISH,67,lEi,lEi,l a i,,2165,,false,^ l E i $,default,lie
+ENGLISH-68-1,,ENGLISH,68,sit,sit,s i t,,2165,,false,^ s i t $,default,sit
+ENGLISH-69-1,,ENGLISH,69,stEnd,stEnd,s t a n d,,2165,,false,^ s t E n d $,default,stand
+ENGLISH-70-1,,ENGLISH,70,giv,giv,g i v,,2165,,true,^ g i v $,default,give
+ENGLISH-71-1,,ENGLISH,71,sei,sei,s e i,,2165,,false,^ s e i $,default,say
+ENGLISH-72-1,,ENGLISH,72,s3n,s3n,s ə n,,2165,,false,^ s 3 n $,default,sun
+ENGLISH-73-1,,ENGLISH,73,mun,mun,m u n,,2165,,false,^ m u n $,default,moon
+ENGLISH-74-1,,ENGLISH,74,star,star,s t ɐ r,,2165,,false,^ s t a r $,default,star
+ENGLISH-75-1,,ENGLISH,75,wat3r,wat3r,w ɐ t ə r,,2165,,false,^ w a t 3 r $,default,water
+ENGLISH-76-1,,ENGLISH,76,rein,rein,r e i n,,2165,,false,^ r e i n $,default,rain
+ENGLISH-77-1,,ENGLISH,77,ston,ston,s t o n,,2165,,false,^ s t o n $,default,stone
+ENGLISH-78-1,,ENGLISH,78,sEnd,sEnd,s a n d,,2165,,false,^ s E n d $,default,sand
+ENGLISH-79-1,,ENGLISH,79,3r8,3r8,ə r θ,,2165,,false,^ 3 r 8 $,default,earth
+ENGLISH-80-1,,ENGLISH,80,klaud,klaud,k l ɐ u d,,2165,,false,^ k l a u d $,default,cloud
+ENGLISH-81-1,,ENGLISH,81,smok,smok,s m o k,,2165,,false,^ s m o k $,default,smoke
+ENGLISH-82-1,,ENGLISH,82,fEir,fEir,f a i r,,2165,,false,^ f E i r $,default,fire
+ENGLISH-83-1,,ENGLISH,83,ES,ES,a ʃ,,2165,,false,^ E S $,default,ash
+ENGLISH-84-1,,ENGLISH,84,b3rn,b3rn,b ə r n,,2165,,false,^ b 3 r n $,default,burn
+ENGLISH-85-1,,ENGLISH,85,pE8,pE8,p a θ,,2165,,false,^ p E 8 $,default,path
+ENGLISH-86-1,,ENGLISH,86,maunt3n,maunt3n,m ɐ u n t ə n,,2165,,true,^ m a u n t 3 n $,default,mountain
+ENGLISH-87-1,,ENGLISH,87,rEd,rEd,r a d,,2165,,false,^ r E d $,default,red
+ENGLISH-88-1,,ENGLISH,88,grin,grin,g r i n,,2165,,false,^ g r i n $,default,green
+ENGLISH-89-1,,ENGLISH,89,yElo,yElo,j a l o,,2165,,false,^ y E l o $,default,yellow
+ENGLISH-90-1,,ENGLISH,90,whit,wh~Eit,w h a i t,,2165,,false,^ wh~ E i t $,default,white
+ENGLISH-91-1,,ENGLISH,91,blEk,blEk,b l a k,,2165,,false,^ b l E k $,default,black
+ENGLISH-92-1,,ENGLISH,92,nEit,nEit,n a i t,,2165,,false,^ n E i t $,default,night
+ENGLISH-93-1,,ENGLISH,93,hat,hat,h ɐ t,,2165,,false,^ h a t $,default,hot
+ENGLISH-94-1,,ENGLISH,94,kold,kold,k o l d,,2165,,false,^ k o l d $,default,cold
+ENGLISH-95-1,,ENGLISH,95,ful,ful,f u l,,2165,,false,^ f u l $,default,full
+ENGLISH-96-1,,ENGLISH,96,nu,nu,n u,,2165,,false,^ n u $,default,new
+ENGLISH-97-1,,ENGLISH,97,gud,gud,g u d,,2165,,false,^ g u d $,default,good
+ENGLISH-98-1,,ENGLISH,98,rawnd,rawnd,r ɐ w n d,,2165,,true,^ r a w n d $,default,round
+ENGLISH-99-1,,ENGLISH,99,drEi,drEi,d r a i,,2165,,false,^ d r E i $,default,dry
+ENGLISH-100-1,,ENGLISH,100,nem,nem,n e m,,2165,,false,^ n e m $,default,name
+FRENCH-1-1,,FRENCH,1,j3,j3,dʒ ə,,2302,,false,^ j 3 $,default,I
+FRENCH-2-1,,FRENCH,2,ti,ti,t i,,2302,,false,^ t i $,default,you
+FRENCH-2-2,,FRENCH,2,vu,vu,v u,,2302,,false,^ v u $,default,you
+FRENCH-3-1,,FRENCH,3,nu,nu,n u,,2302,,false,^ n u $,default,we
+FRENCH-4-1,,FRENCH,4,s3si,s3si,s ə s i,,2302,,false,^ s 3 s i $,default,this
+FRENCH-5-1,,FRENCH,5,s3la,s3la,s ə l ɐ,,2302,,false,^ s 3 l a $,default,that
+FRENCH-6-1,,FRENCH,6,ki,ki,k i,,2302,,false,^ k i $,default,who
+FRENCH-7-1,,FRENCH,7,kwa,kwa,k w ɐ,,2302,,false,^ k w a $,default,what
+FRENCH-8-1,,FRENCH,8,n3 pa,n3 pa,n ə + p ɐ,,2302,,false,^ n 3 + p a $,default,not
+FRENCH-9-1,,FRENCH,9,tu,tu,t u,,2302,,false,^ t u $,default,all
+FRENCH-10-1,,FRENCH,10,boku,boku,b o k u,,2302,,false,^ b o k u $,default,many
+FRENCH-11-1,,FRENCH,11,oe,oe*,o ẽ,,2302,,false,^ o e* $,default,one
+FRENCH-12-1,,FRENCH,12,de,de,d e,,2302,,false,^ d e $,default,two
+FRENCH-13-1,,FRENCH,13,gra,gra*,g r ɐ̃,,2302,,false,^ g r a* $,default,big
+FRENCH-14-1,,FRENCH,14,lo,lo*,l õ,,2302,,false,^ l o* $,default,long
+FRENCH-15-1,,FRENCH,15,p3ti,p3ti,p ə t i,,2302,,false,^ p 3 t i $,default,small
+FRENCH-16-1,,FRENCH,16,fam,fam,f ɐ m,,2302,,false,^ f a m $,default,woman
+FRENCH-17-1,,FRENCH,17,om,om,o m,,2302,,false,^ o m $,default,man
+FRENCH-18-1,,FRENCH,18,om,om,o m,,2302,,false,^ o m $,default,person
+FRENCH-19-1,,FRENCH,19,pwso,pw~aso*,pʷ ɐ s õ,,2302,,false,^ pw~ a s o* $,default,fish
+FRENCH-20-1,,FRENCH,20,wazo,wazo,w ɐ z o,,2302,,false,^ w a z o $,default,bird
+FRENCH-21-1,,FRENCH,21,Sia,Sia*,ʃ i ɐ̃,,2302,,false,^ S i a* $,default,dog
+FRENCH-22-1,,FRENCH,22,pu,pu,p u,,2302,,false,^ p u $,default,louse
+FRENCH-23-1,,FRENCH,23,arbr3,arbr3,ɐ r b r ə,,2302,,false,^ a r b r 3 $,default,tree
+FRENCH-24-1,,FRENCH,24,gran,gran,g r ɐ n,,2302,,false,^ g r a n $,default,seed
+FRENCH-25-1,,FRENCH,25,f3y,f3y,f ə j,,2302,,false,^ f 3 y $,default,leaf
+FRENCH-26-1,,FRENCH,26,rasin,rasin,r ɐ s i n,,2302,,false,^ r a s i n $,default,root
+FRENCH-27-1,,FRENCH,27,ekors,ekors,e k o r s,,2302,,false,^ e k o r s $,default,bark
+FRENCH-28-1,,FRENCH,28,po,po,p o,,2302,,false,^ p o $,default,skin
+FRENCH-29-1,,FRENCH,29,vy,vy~a*d,vʲ ɐ̃ d,,2302,,false,^ vy~ a* d $,default,flesh
+FRENCH-30-1,,FRENCH,30,sa,sa*,s ɐ̃,,2302,,false,^ s a* $,default,blood
+FRENCH-31-1,,FRENCH,31,os,os,o s,,2302,,false,^ o s $,default,bone
+FRENCH-32-1,,FRENCH,32,grais,grais,g r ɐ i s,,2302,,false,^ g r a i s $,default,grease
+FRENCH-33-1,,FRENCH,33,3f,3f,ə f,,2302,,false,^ 3 f $,default,egg
+FRENCH-34-1,,FRENCH,34,korn,korn,k o r n,,2302,,false,^ k o r n $,default,horn
+FRENCH-35-1,,FRENCH,35,ke,ke,k e,,2302,,false,^ k e $,default,tail
+FRENCH-36-1,,FRENCH,36,ply,ply~m,p lʲ m,,2302,,false,^ p ly~ m $,default,feather
+FRENCH-37-1,,FRENCH,37,S3ve,S3ve,ʃ ə v e,,2302,,false,^ S 3 v e $,default,hair
+FRENCH-38-1,,FRENCH,38,t3t,t3t,t ə t,,2302,,false,^ t 3 t $,default,head
+FRENCH-39-1,,FRENCH,39,ore,ore,o r e,,2302,,false,^ o r e $,default,ear
+FRENCH-40-1,,FRENCH,40,3y,3y,ə j,,2302,,false,^ 3 y $,default,eye
+FRENCH-41-1,,FRENCH,41,ne,ne,n e,,2302,,false,^ n e $,default,nose
+FRENCH-42-1,,FRENCH,42,buS,buS,b u ʃ,,2302,,false,^ b u S $,default,mouth
+FRENCH-43-1,,FRENCH,43,da,da*,d ɐ̃,,2302,,false,^ d a* $,default,tooth
+FRENCH-44-1,,FRENCH,44,la,la*g,l ɐ̃ g,,2302,,false,^ l a* g $,default,tongue
+FRENCH-45-1,,FRENCH,45,ol,o*gl,õ g l,,2302,,false,^ o* g l $,default,claw
+FRENCH-46-1,,FRENCH,46,py,py~e,pʲ e,,2302,,false,^ py~ e $,default,foot
+FRENCH-47-1,,FRENCH,47,j3nu,j3nu,dʒ ə n u,,2302,,false,^ j 3 n u $,default,knee
+FRENCH-48-1,,FRENCH,48,ma,ma*,m ɐ̃,,2302,,false,^ m a* $,default,hand
+FRENCH-49-1,,FRENCH,49,var,va*tr,v ɐ̃ t r,,2302,,false,^ v a* t r $,default,belly
+FRENCH-50-1,,FRENCH,50,ku,ku,k u,,2302,,false,^ k u $,default,neck
+FRENCH-51-1,,FRENCH,51,pwtrin,pw~atrin,pʷ ɐ t r i n,,2302,,false,^ pw~ a t r i n $,default,breast
+FRENCH-52-1,,FRENCH,52,k3r,k3r,k ə r,,2302,,false,^ k 3 r $,default,heart
+FRENCH-53-1,,FRENCH,53,fw,fw~a,fʷ ɐ,,2302,,false,^ fw~ a $,default,liver
+FRENCH-54-1,,FRENCH,54,bw,bw~a,bʷ ɐ,,2302,,false,^ bw~ a $,default,drink
+FRENCH-55-1,,FRENCH,55,ma,ma*g,m ɐ̃ g,,2302,,false,^ m a* g $,default,eat
+FRENCH-56-1,,FRENCH,56,mord,mord,m o r d,,2302,,false,^ m o r d $,default,bite
+FRENCH-57-1,,FRENCH,57,vw,vw~a,v w ɐ,,2302,,false,^ vw~ a $,default,see
+FRENCH-58-1,,FRENCH,58,oar,o*ta*dr,õ t ɐ̃ d r,,2302,,false,^ o* t a* d r $,default,hear
+FRENCH-59-1,,FRENCH,59,savw,savw~a,s ɐ v w ɐ,,2302,,false,^ s a vw~ a $,default,know
+FRENCH-60-1,,FRENCH,60,dormi,dormi,d o r m i,,2302,,false,^ d o r m i $,default,sleep
+FRENCH-61-1,,FRENCH,61,muri,muri,m u r i,,2302,,false,^ m u r i $,default,die
+FRENCH-62-1,,FRENCH,62,tue,tue,t u e,,2302,,false,^ t u e $,default,kill
+FRENCH-63-1,,FRENCH,63,naje,naje,n ɐ dʒ e,,2302,,false,^ n a j e $,default,swim
+FRENCH-64-1,,FRENCH,64,vwle,vw~ale,v w ɐ l e,,2302,,false,^ vw~ a l e $,default,fly
+FRENCH-65-1,,FRENCH,65,marSe,marSe,m ɐ r ʃ e,,2302,,false,^ m a r S e $,default,walk
+FRENCH-66-1,,FRENCH,66,v3ni,v3ni,v ə n i,,2302,,false,^ v 3 n i $,default,come
+FRENCH-67-1,,FRENCH,67,setar,seta*dr,s e t ɐ̃ d r,,2302,,false,^ s e t a* d r $,default,lie
+FRENCH-67-2,,FRENCH,67,etraaE,etra*da*dE,e t r ɐ̃ d ɐ̃ d a,,2302,,false,^ e t r a* d a* d E $,default,lie
+FRENCH-68-1,,FRENCH,68,sasw,sasw~a,s ɐ sʷ ɐ,,2302,,false,^ s a sw~ a $,default,sit
+FRENCH-68-2,,FRENCH,68,etrasi,etrasi,e t r ɐ s i,,2302,,false,^ e t r a s i $,default,sit
+FRENCH-69-1,,FRENCH,69,s3l3ve,s3l3ve,s ə l ə v e,,2302,,false,^ s 3 l 3 v e $,default,stand
+FRENCH-69-2,,FRENCH,69,s3t3nird3vu,s3t3nird3vu,s ə t ə n i r d ə v u,,2302,,false,^ s 3 t 3 n i r d 3 v u $,default,stand
+FRENCH-70-1,,FRENCH,70,done,done,d o n e,,2302,,false,^ d o n e $,default,give
+FRENCH-71-1,,FRENCH,71,di,di,d i,,2302,,false,^ d i $,default,say
+FRENCH-72-1,,FRENCH,72,sole,sole,s o l e,,2302,,false,^ s o l e $,default,sun
+FRENCH-73-1,,FRENCH,73,len,len,l e n,,2302,,false,^ l e n $,default,moon
+FRENCH-74-1,,FRENCH,74,etwl,etw~ol,e tʷ o l,,2302,,false,^ e tw~ o l $,default,star
+FRENCH-75-1,,FRENCH,75,o,o,o,,2302,,false,^ o $,default,water
+FRENCH-76-1,,FRENCH,76,plui,plui,p l u i,,2302,,false,^ p l u i $,default,rain
+FRENCH-77-1,,FRENCH,77,pyr,py~er,pʲ e r,,2302,,false,^ py~ e r $,default,stone
+FRENCH-78-1,,FRENCH,78,sabl,sabl,s ɐ b l,,2302,,false,^ s a b l $,default,sand
+FRENCH-79-1,,FRENCH,79,ter,ter,t e r,,2302,,false,^ t e r $,default,earth
+FRENCH-80-1,,FRENCH,80,nuaj,nuaj,n u ɐ dʒ,,2302,,false,^ n u a j $,default,cloud
+FRENCH-81-1,,FRENCH,81,fEme,fEme,f a m e,,2302,,false,^ f E m e $,default,smoke
+FRENCH-82-1,,FRENCH,82,fe,fe,f e,,2302,,false,^ f e $,default,fire
+FRENCH-83-1,,FRENCH,83,sar,sa*dr,s ɐ̃ d r,,2302,,false,^ s a* d r $,default,ash
+FRENCH-84-1,,FRENCH,84,brule,brule,b r u l e,,2302,,false,^ b r u l e $,default,burn
+FRENCH-85-1,,FRENCH,85,rut,rut,r u t,,2302,,false,^ r u t $,default,path
+FRENCH-86-1,,FRENCH,86,moaj,mo*taj,m õ t ɐ dʒ,,2302,,false,^ m o* t a j $,default,mountain
+FRENCH-87-1,,FRENCH,87,ruj,ruj,r u dʒ,,2302,,false,^ r u j $,default,red
+FRENCH-88-1,,FRENCH,88,ver,ver,v e r,,2302,,false,^ v e r $,default,green
+FRENCH-89-1,,FRENCH,89,jon,jon,dʒ o n,,2302,,false,^ j o n $,default,yellow
+FRENCH-90-1,,FRENCH,90,bla,bla*,b l ɐ̃,,2302,,false,^ b l a* $,default,white
+FRENCH-91-1,,FRENCH,91,nwr,nw~ar,nʷ ɐ r,,2302,,false,^ nw~ a r $,default,black
+FRENCH-92-1,,FRENCH,92,nui,nui,n u i,,2302,,false,^ n u i $,default,night
+FRENCH-93-1,,FRENCH,93,So,So,ʃ o,,2302,,false,^ S o $,default,hot
+FRENCH-94-1,,FRENCH,94,fra,fr~wa,f r w ɐ,,2302,,false,^ fr~ w a $,default,cold
+FRENCH-95-1,,FRENCH,95,pl3,pl3*,p l ə̃,,2302,,false,^ p l 3* $,default,full
+FRENCH-96-1,,FRENCH,96,nuvo,nuvo,n u v o,,2302,,false,^ n u v o $,default,new
+FRENCH-97-1,,FRENCH,97,bo,bo*,b õ,,2302,,false,^ b o* $,default,good
+FRENCH-98-1,,FRENCH,98,ro,ro*,r õ,,2302,,false,^ r o* $,default,round
+FRENCH-99-1,,FRENCH,99,s3k,s3k,s ə k,,2302,,false,^ s 3 k $,default,dry
+FRENCH-100-1,,FRENCH,100,no,no*,n õ,,2302,,false,^ n o* $,default,name
+GREEK-1-1,,GREEK,1,exo,exo,e x o,,2604,,false,^ e x o $,default,I
+GREEK-2-1,,GREEK,2,esi,esi,e s i,,2604,,false,^ e s i $,default,you
+GREEK-3-1,,GREEK,3,emis,emis,e m i s,,2604,,false,^ e m i s $,default,we
+GREEK-11-1,,GREEK,11,enas,enas,e n ɐ s,,2604,,false,^ e n a s $,default,one
+GREEK-11-2,,GREEK,11,ena,ena,e n ɐ,,2604,,false,^ e n a $,default,one
+GREEK-12-1,,GREEK,12,8y,8y~o,θʲ o,,2604,,false,^ 8y~ o $,default,two
+GREEK-12-2,,GREEK,12,8io,8io,θ i o,,2604,,false,^ 8 i o $,default,two
+GREEK-18-1,,GREEK,18,an8opos,an8~ropos,ɐ ⁿθ r o p o s,,2604,,false,^ a n8~ r o p o s $,default,person
+GREEK-19-1,,GREEK,19,psari,psari,p s ɐ r i,,2604,,false,^ p s a r i $,default,fish
+GREEK-21-1,,GREEK,21,sTili,sTili,s c i l i,,2604,,false,^ s T i l i $,default,dog
+GREEK-21-2,,GREEK,21,sTilos,sTilos,s c i l o s,,2604,,false,^ s T i l o s $,default,dog
+GREEK-22-1,,GREEK,22,psira,psira,p s i r ɐ,,2604,,false,^ p s i r a $,default,louse
+GREEK-23-1,,GREEK,23,8endo,8end~ro,θ e ⁿd r o,,2604,,false,^ 8 e nd~ r o $,default,tree
+GREEK-25-1,,GREEK,25,filo,filo,f i l o,,2604,,false,^ f i l o $,default,leaf
+GREEK-28-1,,GREEK,28,petsi,petsi,p e t s i,,2604,,false,^ p e t s i $,default,skin
+GREEK-28-2,,GREEK,28,8erma,8erma,θ e r m ɐ,,2604,,false,^ 8 e r m a $,default,skin
+GREEK-30-1,,GREEK,30,ema,ema,e m ɐ,,2604,,false,^ e m a $,default,blood
+GREEK-31-1,,GREEK,31,kokalo,kokalo,k o k ɐ l o,,2604,,false,^ k o k a l o $,default,bone
+GREEK-31-2,,GREEK,31,osto,osto,o s t o,,2604,,false,^ o s t o $,default,bone
+GREEK-34-1,,GREEK,34,Terato,Terato,c e r ɐ t o,,2604,,false,^ T e r a t o $,default,horn
+GREEK-34-2,,GREEK,34,Teras,Teras,c e r ɐ s,,2604,,false,^ T e r a s $,default,horn
+GREEK-39-1,,GREEK,39,afti,afti,ɐ f t i,,2604,,false,^ a f t i $,default,ear
+GREEK-40-1,,GREEK,40,mati,mati,m ɐ t i,,2604,,false,^ m a t i $,default,eye
+GREEK-40-2,,GREEK,40,of8almos,of8almos,o f θ ɐ l m o s,,2604,,false,^ o f 8 a l m o s $,default,eye
+GREEK-41-1,,GREEK,41,miti,miti,m i t i,,2604,,false,^ m i t i $,default,nose
+GREEK-43-1,,GREEK,43,8ond,8ond~i,θ o ⁿd i,,2604,,false,^ 8 o nd~ i $,default,tooth
+GREEK-44-1,,GREEK,44,xlosa,xlosa,x l o s ɐ,,2604,,false,^ x l o s a $,default,tongue
+GREEK-47-1,,GREEK,47,xonato,xonato,x o n ɐ t o,,2604,,false,^ x o n a t o $,default,knee
+GREEK-48-1,,GREEK,48,xeri,xeri,x e r i,,2604,,false,^ x e r i $,default,hand
+GREEK-51-1,,GREEK,51,sti8os,sti8os,s t i θ o s,,2604,,false,^ s t i 8 o s $,default,breast
+GREEK-51-2,,GREEK,51,mastos,mastos,m ɐ s t o s,,2604,,false,^ m a s t o s $,default,breast
+GREEK-53-1,,GREEK,53,sikoti,sikoti,s i k o t i,,2604,,false,^ s i k o t i $,default,liver
+GREEK-53-2,,GREEK,53,ipar,ipar,i p ɐ r,,2604,,false,^ i p a r $,default,liver
+GREEK-54-1,,GREEK,54,pin,pin,p i n,,2604,,false,^ p i n $,default,drink
+GREEK-57-1,,GREEK,57,vlep,vlep,v l e p,,2604,,false,^ v l e p $,default,see
+GREEK-58-1,,GREEK,58,aku,aku,ɐ k u,,2604,,false,^ a k u $,default,hear
+GREEK-61-1,,GREEK,61,pe8en,pe8en,p e θ e n,,2604,,false,^ p e 8 e n $,default,die
+GREEK-61-2,,GREEK,61,ap,ap,ɐ p,,2604,,false,^ a p $,default,die
+GREEK-66-1,,GREEK,66,erx,erx~o,e rˠ o,,2604,,false,^ e rx~ o $,default,come
+GREEK-72-1,,GREEK,72,ilys,ily~os,i lʲ o s,,2604,,false,^ i ly~ o s $,default,sun
+GREEK-72-2,,GREEK,72,iLos,iLos,i ʎ o s,,2604,,false,^ i L o s $,default,sun
+GREEK-74-1,,GREEK,74,asteri,asteri,ɐ s t e r i,,2604,,false,^ a s t e r i $,default,star
+GREEK-74-2,,GREEK,74,astro,astro,ɐ s t r o,,2604,,false,^ a s t r o $,default,star
+GREEK-75-1,,GREEK,75,nero,nero,n e r o,,2604,,false,^ n e r o $,default,water
+GREEK-77-1,,GREEK,77,petra,petra,p e t r ɐ,,2604,,false,^ p e t r a $,default,stone
+GREEK-82-1,,GREEK,82,foty,foty~a,f o tʲ ɐ,,2604,,false,^ f o ty~ a $,default,fire
+GREEK-85-1,,GREEK,85,8romos,8romos,θ r o m o s,,2604,,false,^ 8 r o m o s $,default,path
+GREEK-86-1,,GREEK,86,vuno,vuno,v u n o,,2604,,false,^ v u n o $,default,mountain
+GREEK-86-2,,GREEK,86,oros,oros,o r o s,,2604,,false,^ o r o s $,default,mountain
+GREEK-92-1,,GREEK,92,nita,nita,n i t ɐ,,2604,,false,^ n i t a $,default,night
+GREEK-95-1,,GREEK,95,yematos,yematos,j e m ɐ t o s,,2604,,false,^ y e m a t o s $,default,full
+GREEK-95-2,,GREEK,95,pliris,pliris,p l i r i s,,2604,,false,^ p l i r i s $,default,full
+GREEK-96-1,,GREEK,96,neos,neos,n e o s,,2604,,false,^ n e o s $,default,new
+GREEK-96-2,,GREEK,96,Tenurys,Tenury~os,c e n u rʲ o s,,2604,,false,^ T e n u ry~ o s $,default,new
+GREEK-100-1,,GREEK,100,onoma,onoma,o n o m ɐ,,2604,,false,^ o n o m a $,default,name
+ITALIAN-1-1,,ITALIAN,1,io,io,i o,,3124,,false,^ i o $,default,I
+ITALIAN-2-1,,ITALIAN,2,tu,tu,t u,,3124,,false,^ t u $,default,you
+ITALIAN-3-1,,ITALIAN,3,noi,noi,n o i,,3124,,false,^ n o i $,default,we
+ITALIAN-11-1,,ITALIAN,11,uno,uno,u n o,,3124,,false,^ u n o $,default,one
+ITALIAN-12-1,,ITALIAN,12,due,due,d u e,,3124,,false,^ d u e $,default,two
+ITALIAN-18-1,,ITALIAN,18,persona,persona,p e r s o n ɐ,,3124,,false,^ p e r s o n a $,default,person
+ITALIAN-19-1,,ITALIAN,19,peSe,peSe,p e ʃ e,,3124,,false,^ p e S e $,default,fish
+ITALIAN-21-1,,ITALIAN,21,kane,kane,k ɐ n e,,3124,,false,^ k a n e $,default,dog
+ITALIAN-22-1,,ITALIAN,22,pidokkyo,pidokkyo,p i d o k k j o,,3124,,false,^ p i d o k k y o $,default,louse
+ITALIAN-23-1,,ITALIAN,23,albero,albero,ɐ l b e r o,,3124,,false,^ a l b e r o $,default,tree
+ITALIAN-25-1,,ITALIAN,25,foLa,foLa,f o ʎ ɐ,,3124,,false,^ f o L a $,default,leaf
+ITALIAN-28-1,,ITALIAN,28,pElle,pElle,p a l l e,,3124,,false,^ p E l l e $,default,skin
+ITALIAN-30-1,,ITALIAN,30,saNgwe,saNgwe,s ɐ ŋ g w e,,3124,,false,^ s a N g w e $,default,blood
+ITALIAN-31-1,,ITALIAN,31,osso,osso,o s s o,,3124,,false,^ o s s o $,default,bone
+ITALIAN-34-1,,ITALIAN,34,korno,korno,k o r n o,,3124,,false,^ k o r n o $,default,horn
+ITALIAN-39-1,,ITALIAN,39,orekkyo,orekkyo,o r e k k j o,,3124,,false,^ o r e k k y o $,default,ear
+ITALIAN-40-1,,ITALIAN,40,okkyo,okkyo,o k k j o,,3124,,false,^ o k k y o $,default,eye
+ITALIAN-41-1,,ITALIAN,41,naso,naso,n ɐ s o,,3124,,false,^ n a s o $,default,nose
+ITALIAN-43-1,,ITALIAN,43,dante,dante,d ɐ n t e,,3124,,false,^ d a n t e $,default,tooth
+ITALIAN-44-1,,ITALIAN,44,liNgwa,liNgwa,l i ŋ g w ɐ,,3124,,false,^ l i N g w a $,default,tongue
+ITALIAN-47-1,,ITALIAN,47,jinokkyo,jinokkyo,dʒ i n o k k j o,,3124,,false,^ j i n o k k y o $,default,knee
+ITALIAN-48-1,,ITALIAN,48,mano,mano,m ɐ n o,,3124,,false,^ m a n o $,default,hand
+ITALIAN-51-1,,ITALIAN,51,pEtto,pEtto,p a t t o,,3124,,false,^ p E t t o $,default,breast
+ITALIAN-53-1,,ITALIAN,53,fegato,fegato,f e g ɐ t o,,3124,,false,^ f e g a t o $,default,liver
+ITALIAN-54-1,,ITALIAN,54,bere,bere,b e r e,,3124,,false,^ b e r e $,default,drink
+ITALIAN-57-1,,ITALIAN,57,ved,ved,v e d,,3124,,false,^ v e d $,default,see
+ITALIAN-58-1,,ITALIAN,58,ud,ud,u d,,3124,,false,^ u d $,default,hear
+ITALIAN-61-1,,ITALIAN,61,mor,mor,m o r,,3124,,false,^ m o r $,default,die
+ITALIAN-66-1,,ITALIAN,66,vEn,vEn,v a n,,3124,,false,^ v E n $,default,come
+ITALIAN-72-1,,ITALIAN,72,sole,sole,s o l e,,3124,,false,^ s o l e $,default,sun
+ITALIAN-74-1,,ITALIAN,74,stella,stella,s t e l l ɐ,,3124,,false,^ s t e l l a $,default,star
+ITALIAN-75-1,,ITALIAN,75,akwa,akwa,ɐ k w ɐ,,3124,,false,^ a k w a $,default,water
+ITALIAN-77-1,,ITALIAN,77,pyEtra,pyEtra,p j a t r ɐ,,3124,,false,^ p y E t r a $,default,stone
+ITALIAN-82-1,,ITALIAN,82,fwoko,fwoko,f w o k o,,3124,,false,^ f w o k o $,default,fire
+ITALIAN-85-1,,ITALIAN,85,sentyEro,sentyEro,s e n t j a r o,,3124,,false,^ s e n t y E r o $,default,path
+ITALIAN-86-1,,ITALIAN,86,monta5a,monta5a,m o n t ɐ ɲ ɐ,,3124,,false,^ m o n t a 5 a $,default,mountain
+ITALIAN-92-1,,ITALIAN,92,notte,notte,n o t t e,,3124,,false,^ n o t t e $,default,night
+ITALIAN-95-1,,ITALIAN,95,pyEno,pyEno,p j a n o,,3124,,false,^ p y E n o $,default,full
+ITALIAN-96-1,,ITALIAN,96,nwovo,nwovo,n w o v o,,3124,,false,^ n w o v o $,default,new
+ITALIAN-100-1,,ITALIAN,100,nome,nome,n o m e,,3124,,false,^ n o m e $,default,name
+PORTUGUESE-1-1,,PORTUGUESE,1,eu,eu,e u,,7107,,false,^ e u $,default,I
+PORTUGUESE-2-1,,PORTUGUESE,2,tu,tu,t u,,7107,,false,^ t u $,default,you
+PORTUGUESE-3-1,,PORTUGUESE,3,noS,noS,n o ʃ,,7107,,false,^ n o S $,default,we
+PORTUGUESE-11-1,,PORTUGUESE,11,u,u*,ũ,,7107,,false,^ u* $,default,one
+PORTUGUESE-12-1,,PORTUGUESE,12,doiS,doiS,d o i ʃ,,7107,,false,^ d o i S $,default,two
+PORTUGUESE-18-1,,PORTUGUESE,18,pErzon,pErzon,p a r z o n,,7107,,false,^ p E r z o n $,default,person
+PORTUGUESE-19-1,,PORTUGUESE,19,paiS3,paiS3,p ɐ i ʃ ə,,7107,,false,^ p a i S 3 $,default,fish
+PORTUGUESE-21-1,,PORTUGUESE,21,ka,ka*u*,k ɐ̃ ũ,,7107,,false,^ k a* u* $,default,dog
+PORTUGUESE-22-1,,PORTUGUESE,22,pioLu,pioLu,p i o ʎ u,,7107,,false,^ p i o L u $,default,louse
+PORTUGUESE-23-1,,PORTUGUESE,23,Ervur3,Ervur3,a r v u r ə,,7107,,false,^ E r v u r 3 $,default,tree
+PORTUGUESE-25-1,,PORTUGUESE,25,foLa,foLa,f o ʎ ɐ,,7107,,false,^ f o L a $,default,leaf
+PORTUGUESE-28-1,,PORTUGUESE,28,pEl3,pEl3,p a l ə,,7107,,false,^ p E l 3 $,default,skin
+PORTUGUESE-30-1,,PORTUGUESE,30,sa3,sa*x3,s ɐ̃ x ə,,7107,,false,^ s a* x 3 $,default,blood
+PORTUGUESE-31-1,,PORTUGUESE,31,osu,osu,o s u,,7107,,false,^ o s u $,default,bone
+PORTUGUESE-34-1,,PORTUGUESE,34,Sifr3,Sifr3,ʃ i f r ə,,7107,,false,^ S i f r 3 $,default,horn
+PORTUGUESE-39-1,,PORTUGUESE,39,oraLa,oraLa,o r ɐ ʎ ɐ,,7107,,false,^ o r a L a $,default,ear
+PORTUGUESE-40-1,,PORTUGUESE,40,oLu,oLu,o ʎ u,,7107,,false,^ o L u $,default,eye
+PORTUGUESE-41-1,,PORTUGUESE,41,nariS,nariS,n ɐ r i ʃ,,7107,,false,^ n a r i S $,default,nose
+PORTUGUESE-43-1,,PORTUGUESE,43,de3,de*t3,d ẽ t ə,,7107,,false,^ d e* t 3 $,default,tooth
+PORTUGUESE-44-1,,PORTUGUESE,44,liua,li*gua,l ĩ g u ɐ,,7107,,false,^ l i* g u a $,default,tongue
+PORTUGUESE-47-1,,PORTUGUESE,47,ZuaLu,ZuaLu,ʒ u ɐ ʎ u,,7107,,false,^ Z u a L u $,default,knee
+PORTUGUESE-48-1,,PORTUGUESE,48,ma,ma*u,m ɐ̃ u,,7107,,false,^ m a* u $,default,hand
+PORTUGUESE-51-1,,PORTUGUESE,51,saiuS,saiuS,s ɐ i u ʃ,,7107,,false,^ s a i u S $,default,breast
+PORTUGUESE-53-1,,PORTUGUESE,53,fixa8u,fixa8u,f i x ɐ θ u,,7107,,false,^ f i x a 8 u $,default,liver
+PORTUGUESE-54-1,,PORTUGUESE,54,b3b,b3b,b ə b,,7107,,false,^ b 3 b $,default,drink
+PORTUGUESE-57-1,,PORTUGUESE,57,ver,ver,v e r,,7107,,false,^ v e r $,default,see
+PORTUGUESE-58-1,,PORTUGUESE,58,ov,ov,o v,,7107,,false,^ o v $,default,hear
+PORTUGUESE-61-1,,PORTUGUESE,61,mur,mur,m u r,,7107,,false,^ m u r $,default,die
+PORTUGUESE-66-1,,PORTUGUESE,66,vir,vir,v i r,,7107,,false,^ v i r $,default,come
+PORTUGUESE-72-1,,PORTUGUESE,72,sol,sol,s o l,,7107,,false,^ s o l $,default,sun
+PORTUGUESE-74-1,,PORTUGUESE,74,3Strela,3Strela,ə ʃ t r e l ɐ,,7107,,false,^ 3 S t r e l a $,default,star
+PORTUGUESE-75-1,,PORTUGUESE,75,Egw,Egw~a,a gʷ ɐ,,7107,,false,^ E gw~ a $,default,water
+PORTUGUESE-77-1,,PORTUGUESE,77,pEdra,pEdra,p a d r ɐ,,7107,,false,^ p E d r a $,default,stone
+PORTUGUESE-82-1,,PORTUGUESE,82,fogu,fogu,f o g u,,7107,,false,^ f o g u $,default,fire
+PORTUGUESE-85-1,,PORTUGUESE,85,sea,se*da,s ẽ d ɐ,,7107,,false,^ s e* d a $,default,path
+PORTUGUESE-86-1,,PORTUGUESE,86,moa5a,mo*ta5a,m õ t ɐ ɲ ɐ,,7107,,false,^ m o* t a 5 a $,default,mountain
+PORTUGUESE-92-1,,PORTUGUESE,92,noyt3,noyt3,n o j t ə,,7107,,false,^ n o y t 3 $,default,night
+PORTUGUESE-95-1,,PORTUGUESE,95,Seyu,Seyu,ʃ e j u,,7107,,false,^ S e y u $,default,full
+PORTUGUESE-96-1,,PORTUGUESE,96,novu,novu,n o v u,,7107,,false,^ n o v u $,default,new
+PORTUGUESE-100-1,,PORTUGUESE,100,nom3,nom3,n o m ə,,7107,,false,^ n o m 3 $,default,name
+SPANISH-1-1,,SPANISH,1,yo,yo,j o,,8257,,false,^ y o $,default,I
+SPANISH-2-1,,SPANISH,2,ustet,ustet,u s t e t,,8257,,false,^ u s t e t $,default,you
+SPANISH-2-2,,SPANISH,2,tu,tu,t u,,8257,,false,^ t u $,default,you
+SPANISH-3-1,,SPANISH,3,nosotros,nosotros,n o s o t r o s,,8257,,false,^ n o s o t r o s $,default,we
+SPANISH-4-1,,SPANISH,4,este,este,e s t e,,8257,,false,^ e s t e $,default,this
+SPANISH-5-1,,SPANISH,5,ese,ese,e s e,,8257,,false,^ e s e $,default,that
+SPANISH-5-2,,SPANISH,5,akely,akely~a,ɐ k e lʲ ɐ,,8257,,false,^ a k e ly~ a $,default,that
+SPANISH-6-1,,SPANISH,6,kien,kien,k i e n,,8257,,false,^ k i e n $,default,who
+SPANISH-7-1,,SPANISH,7,ke,ke,k e,,8257,,false,^ k e $,default,what
+SPANISH-8-1,,SPANISH,8,no,no,n o,,8257,,false,^ n o $,default,not
+SPANISH-9-1,,SPANISH,9,todos,todos,t o d o s,,8257,,false,^ t o d o s $,default,all
+SPANISH-10-1,,SPANISH,10,muCos,muCos,m u tʃ o s,,8257,,false,^ m u C o s $,default,many
+SPANISH-11-1,,SPANISH,11,uno,uno,u n o,,8257,,false,^ u n o $,default,one
+SPANISH-12-1,,SPANISH,12,dos,dos,d o s,,8257,,false,^ d o s $,default,two
+SPANISH-13-1,,SPANISH,13,grande,grande,g r ɐ n d e,,8257,,false,^ g r a n d e $,default,big
+SPANISH-14-1,,SPANISH,14,largo,largo,l ɐ r g o,,8257,,false,^ l a r g o $,default,long
+SPANISH-15-1,,SPANISH,15,peke5o,peke5o,p e k e ɲ o,,8257,,false,^ p e k e 5 o $,default,small
+SPANISH-15-2,,SPANISH,15,Ciko,Ciko,tʃ i k o,,8257,,false,^ C i k o $,default,small
+SPANISH-16-1,,SPANISH,16,muher,muher,m u h e r,,8257,,false,^ m u h e r $,default,woman
+SPANISH-17-1,,SPANISH,17,ombre,ombre,o m b r e,,8257,,false,^ o m b r e $,default,man
+SPANISH-18-1,,SPANISH,18,persona,persona,p e r s o n ɐ,,8257,,false,^ p e r s o n a $,default,person
+SPANISH-19-1,,SPANISH,19,peskado,peskado,p e s k ɐ d o,,8257,,false,^ p e s k a d o $,default,fish
+SPANISH-19-2,,SPANISH,19,pes,pes,p e s,,8257,,false,^ p e s $,default,fish
+SPANISH-20-1,,SPANISH,20,ave,ave,ɐ v e,,8257,,false,^ a v e $,default,bird
+SPANISH-20-2,,SPANISH,20,paharo,paharo,p ɐ h ɐ r o,,8257,,false,^ p a h a r o $,default,bird
+SPANISH-21-1,,SPANISH,21,pero,pero,p e r o,,8257,,false,^ p e r o $,default,dog
+SPANISH-22-1,,SPANISH,22,pioho,pioho,p i o h o,,8257,,false,^ p i o h o $,default,louse
+SPANISH-23-1,,SPANISH,23,arbol,arbol,ɐ r b o l,,8257,,false,^ a r b o l $,default,tree
+SPANISH-23-2,,SPANISH,23,palo,palo,p ɐ l o,,8257,,false,^ p a l o $,default,tree
+SPANISH-24-1,,SPANISH,24,semiya,semiya,s e m i j ɐ,,8257,,false,^ s e m i y a $,default,seed
+SPANISH-25-1,,SPANISH,25,oha,oha,o h ɐ,,8257,,false,^ o h a $,default,leaf
+SPANISH-26-1,,SPANISH,26,rais,rais,r ɐ i s,,8257,,false,^ r a i s $,default,root
+SPANISH-27-1,,SPANISH,27,kortesa,kortesa,k o r t e s ɐ,,8257,,false,^ k o r t e s a $,default,bark
+SPANISH-27-2,,SPANISH,27,kaskara,kaskara,k ɐ s k ɐ r ɐ,,8257,,false,^ k a s k a r a $,default,bark
+SPANISH-28-1,,SPANISH,28,piel,piel,p i e l,,8257,,false,^ p i e l $,default,skin
+SPANISH-29-1,,SPANISH,29,karne,karne,k ɐ r n e,,8257,,false,^ k a r n e $,default,flesh
+SPANISH-30-1,,SPANISH,30,sangre,sangre,s ɐ n g r e,,8257,,false,^ s a n g r e $,default,blood
+SPANISH-31-1,,SPANISH,31,weso,weso,w e s o,,8257,,false,^ w e s o $,default,bone
+SPANISH-32-1,,SPANISH,32,grasa,grasa,g r ɐ s ɐ,,8257,,false,^ g r a s a $,default,grease
+SPANISH-33-1,,SPANISH,33,wevo,wevo,w e v o,,8257,,false,^ w e v o $,default,egg
+SPANISH-34-1,,SPANISH,34,kwrno,kw~erno,kʷ e r n o,,8257,,false,^ kw~ e r n o $,default,horn
+SPANISH-35-1,,SPANISH,35,kola,kola,k o l ɐ,,8257,,false,^ k o l a $,default,tail
+SPANISH-35-2,,SPANISH,35,rabo,rabo,r ɐ b o,,8257,,false,^ r a b o $,default,tail
+SPANISH-36-1,,SPANISH,36,pluma,pluma,p l u m ɐ,,8257,,false,^ p l u m a $,default,feather
+SPANISH-37-1,,SPANISH,37,pelo,pelo,p e l o,,8257,,false,^ p e l o $,default,hair
+SPANISH-37-2,,SPANISH,37,kabeyo,kabeyo,k ɐ b e j o,,8257,,false,^ k a b e y o $,default,hair
+SPANISH-38-1,,SPANISH,38,kabesa,kabesa,k ɐ b e s ɐ,,8257,,false,^ k a b e s a $,default,head
+SPANISH-39-1,,SPANISH,39,oreha,oreha,o r e h ɐ,,8257,,false,^ o r e h a $,default,ear
+SPANISH-40-1,,SPANISH,40,oho,oho,o h o,,8257,,false,^ o h o $,default,eye
+SPANISH-41-1,,SPANISH,41,naris,naris,n ɐ r i s,,8257,,false,^ n a r i s $,default,nose
+SPANISH-42-1,,SPANISH,42,boka,boka,b o k ɐ,,8257,,false,^ b o k a $,default,mouth
+SPANISH-43-1,,SPANISH,43,diente,diente,d i e n t e,,8257,,false,^ d i e n t e $,default,tooth
+SPANISH-44-1,,SPANISH,44,lengw,lengw~a,l e n gʷ ɐ,,8257,,false,^ l e n gw~ a $,default,tongue
+SPANISH-45-1,,SPANISH,45,gara,gara,g ɐ r ɐ,,8257,,false,^ g a r a $,default,claw
+SPANISH-46-1,,SPANISH,46,pie,pie,p i e,,8257,,false,^ p i e $,default,foot
+SPANISH-46-2,,SPANISH,46,pata,pata,p ɐ t ɐ,,8257,,false,^ p a t a $,default,foot
+SPANISH-47-1,,SPANISH,47,rodiya,rodiya,r o d i j ɐ,,8257,,false,^ r o d i y a $,default,knee
+SPANISH-48-1,,SPANISH,48,mano,mano,m ɐ n o,,8257,,false,^ m a n o $,default,hand
+SPANISH-49-1,,SPANISH,49,bariga,bariga,b ɐ r i g ɐ,,8257,,false,^ b a r i g a $,default,belly
+SPANISH-50-1,,SPANISH,50,kwyo,kw~eyo,kʷ e j o,,8257,,false,^ kw~ e y o $,default,neck
+SPANISH-50-2,,SPANISH,50,peskwso,peskw~eso,p e s kʷ e s o,,8257,,false,^ p e s kw~ e s o $,default,neck
+SPANISH-51-1,,SPANISH,51,peCo,peCo,p e tʃ o,,8257,,false,^ p e C o $,default,breast
+SPANISH-51-2,,SPANISH,51,seno,seno,s e n o,,8257,,false,^ s e n o $,default,breast
+SPANISH-52-1,,SPANISH,52,korason,korason,k o r ɐ s o n,,8257,,false,^ k o r a s o n $,default,heart
+SPANISH-53-1,,SPANISH,53,igado,igado,i g ɐ d o,,8257,,false,^ i g a d o $,default,liver
+SPANISH-54-1,,SPANISH,54,bebe,bebe,b e b e,,8257,,false,^ b e b e $,default,drink
+SPANISH-54-2,,SPANISH,54,toma,toma,t o m ɐ,,8257,,false,^ t o m a $,default,drink
+SPANISH-55-1,,SPANISH,55,kome,kome,k o m e,,8257,,false,^ k o m e $,default,eat
+SPANISH-56-1,,SPANISH,56,morde,morde,m o r d e,,8257,,false,^ m o r d e $,default,bite
+SPANISH-57-1,,SPANISH,57,ve,ve,v e,,8257,,false,^ v e $,default,see
+SPANISH-58-1,,SPANISH,58,oir,oir,o i r,,8257,,false,^ o i r $,default,hear
+SPANISH-59-1,,SPANISH,59,sabe,sabe,s ɐ b e,,8257,,false,^ s a b e $,default,know
+SPANISH-59-2,,SPANISH,59,konose,konose,k o n o s e,,8257,,false,^ k o n o s e $,default,know
+SPANISH-60-1,,SPANISH,60,dormi,dormi,d o r m i,,8257,,false,^ d o r m i $,default,sleep
+SPANISH-61-1,,SPANISH,61,mori,mori,m o r i,,8257,,false,^ m o r i $,default,die
+SPANISH-62-1,,SPANISH,62,mata,mata,m ɐ t ɐ,,8257,,false,^ m a t a $,default,kill
+SPANISH-63-1,,SPANISH,63,nada,nada,n ɐ d ɐ,,8257,,false,^ n a d a $,default,swim
+SPANISH-64-1,,SPANISH,64,vola,vola,v o l ɐ,,8257,,false,^ v o l a $,default,fly
+SPANISH-65-1,,SPANISH,65,anda,anda,ɐ n d ɐ,,8257,,false,^ a n d a $,default,walk
+SPANISH-65-2,,SPANISH,65,kamina,kamina,k ɐ m i n ɐ,,8257,,false,^ k a m i n a $,default,walk
+SPANISH-66-1,,SPANISH,66,veni,veni,v e n i,,8257,,false,^ v e n i $,default,come
+SPANISH-67-1,,SPANISH,67,akosta,akosta,ɐ k o s t ɐ,,8257,,false,^ a k o s t a $,default,lie
+SPANISH-67-2,,SPANISH,67,eCa,eCa,e tʃ ɐ,,8257,,false,^ e C a $,default,lie
+SPANISH-68-1,,SPANISH,68,senta,senta,s e n t ɐ,,8257,,false,^ s e n t a $,default,sit
+SPANISH-69-1,,SPANISH,69,esta de pie,esta de pie,e s t ɐ + d e + p i e,,8257,,false,^ e s t a + d e + p i e $,default,stand
+SPANISH-70-1,,SPANISH,70,da,da,d ɐ,,8257,,false,^ d a $,default,give
+SPANISH-71-1,,SPANISH,71,desi,desi,d e s i,,8257,,false,^ d e s i $,default,say
+SPANISH-72-1,,SPANISH,72,sol,sol,s o l,,8257,,false,^ s o l $,default,sun
+SPANISH-73-1,,SPANISH,73,luna,luna,l u n ɐ,,8257,,false,^ l u n a $,default,moon
+SPANISH-74-1,,SPANISH,74,estreya,estreya,e s t r e j ɐ,,8257,,false,^ e s t r e y a $,default,star
+SPANISH-75-1,,SPANISH,75,agw,agw~a,ɐ gʷ ɐ,,8257,,false,^ a gw~ a $,default,water
+SPANISH-76-1,,SPANISH,76,yuvia,yuvia,j u v i ɐ,,8257,,false,^ y u v i a $,default,rain
+SPANISH-77-1,,SPANISH,77,piedra,piedra,p i e d r ɐ,,8257,,false,^ p i e d r a $,default,stone
+SPANISH-78-1,,SPANISH,78,arena,arena,ɐ r e n ɐ,,8257,,false,^ a r e n a $,default,sand
+SPANISH-79-1,,SPANISH,79,tiera,tiera,t i e r ɐ,,8257,,false,^ t i e r a $,default,earth
+SPANISH-80-1,,SPANISH,80,nube,nube,n u b e,,8257,,false,^ n u b e $,default,cloud
+SPANISH-81-1,,SPANISH,81,umo,umo,u m o,,8257,,false,^ u m o $,default,smoke
+SPANISH-82-1,,SPANISH,82,fuego,fuego,f u e g o,,8257,,false,^ f u e g o $,default,fire
+SPANISH-83-1,,SPANISH,83,senisa,senisa,s e n i s ɐ,,8257,,false,^ s e n i s a $,default,ash
+SPANISH-84-1,,SPANISH,84,kema,kema,k e m ɐ,,8257,,false,^ k e m a $,default,burn
+SPANISH-84-2,,SPANISH,84,arde,arde,ɐ r d e,,8257,,false,^ a r d e $,default,burn
+SPANISH-85-1,,SPANISH,85,senda,senda,s e n d ɐ,,8257,,false,^ s e n d a $,default,path
+SPANISH-86-1,,SPANISH,86,sero,sero,s e r o,,8257,,false,^ s e r o $,default,mountain
+SPANISH-86-2,,SPANISH,86,monta5a,monta5a,m o n t ɐ ɲ ɐ,,8257,,false,^ m o n t a 5 a $,default,mountain
+SPANISH-87-1,,SPANISH,87,roho,roho,r o h o,,8257,,false,^ r o h o $,default,red
+SPANISH-87-2,,SPANISH,87,kolorado,kolorado,k o l o r ɐ d o,,8257,,false,^ k o l o r a d o $,default,red
+SPANISH-88-1,,SPANISH,88,verde,verde,v e r d e,,8257,,false,^ v e r d e $,default,green
+SPANISH-89-1,,SPANISH,89,amariyo,amariyo,ɐ m ɐ r i j o,,8257,,false,^ a m a r i y o $,default,yellow
+SPANISH-90-1,,SPANISH,90,blanko,blanko,b l ɐ n k o,,8257,,false,^ b l a n k o $,default,white
+SPANISH-91-1,,SPANISH,91,negro,negro,n e g r o,,8257,,false,^ n e g r o $,default,black
+SPANISH-92-1,,SPANISH,92,noCe,noCe,n o tʃ e,,8257,,false,^ n o C e $,default,night
+SPANISH-93-1,,SPANISH,93,kaliente,kaliente,k ɐ l i e n t e,,8257,,false,^ k a l i e n t e $,default,hot
+SPANISH-94-1,,SPANISH,94,frio,frio,f r i o,,8257,,false,^ f r i o $,default,cold
+SPANISH-95-1,,SPANISH,95,yeno,yeno,j e n o,,8257,,false,^ y e n o $,default,full
+SPANISH-96-1,,SPANISH,96,nuevo,nuevo,n u e v o,,8257,,false,^ n u e v o $,default,new
+SPANISH-97-1,,SPANISH,97,bwno,bw~eno,bʷ e n o,,8257,,false,^ bw~ e n o $,default,good
+SPANISH-98-1,,SPANISH,98,redondo,redondo,r e d o n d o,,8257,,false,^ r e d o n d o $,default,round
+SPANISH-99-1,,SPANISH,99,seko,seko,s e k o,,8257,,false,^ s e k o $,default,dry
+SPANISH-100-1,,SPANISH,100,nombre,nombre,n o m b r e,,8257,,false,^ n o m b r e $,default,name
+STANDARD_GERMAN-1-1,,STANDARD_GERMAN,1,ix,ix,i x,,,,false,^ i x $,default,I
+STANDARD_GERMAN-2-1,,STANDARD_GERMAN,2,du,du,d u,,,,false,^ d u $,default,you
+STANDARD_GERMAN-3-1,,STANDARD_GERMAN,3,vir,vir,v i r,,,,false,^ v i r $,default,we
+STANDARD_GERMAN-11-1,,STANDARD_GERMAN,11,ains,ains,ɐ i n s,,,,false,^ a i n s $,default,one
+STANDARD_GERMAN-12-1,,STANDARD_GERMAN,12,cvai,cvai,ts v ɐ i,,,,false,^ c v a i $,default,two
+STANDARD_GERMAN-18-1,,STANDARD_GERMAN,18,mEnS,mEnS,m a n ʃ,,,,false,^ m E n S $,default,person
+STANDARD_GERMAN-19-1,,STANDARD_GERMAN,19,fiS,fiS,f i ʃ,,,,false,^ f i S $,default,fish
+STANDARD_GERMAN-21-1,,STANDARD_GERMAN,21,hunt,hunt,h u n t,,,,false,^ h u n t $,default,dog
+STANDARD_GERMAN-22-1,,STANDARD_GERMAN,22,laus,laus,l ɐ u s,,,,false,^ l a u s $,default,louse
+STANDARD_GERMAN-23-1,,STANDARD_GERMAN,23,baum,baum,b ɐ u m,,,,false,^ b a u m $,default,tree
+STANDARD_GERMAN-25-1,,STANDARD_GERMAN,25,blat,blat,b l ɐ t,,,,false,^ b l a t $,default,leaf
+STANDARD_GERMAN-28-1,,STANDARD_GERMAN,28,haut,haut,h ɐ u t,,,,false,^ h a u t $,default,skin
+STANDARD_GERMAN-30-1,,STANDARD_GERMAN,30,blut,blut,b l u t,,,,false,^ b l u t $,default,blood
+STANDARD_GERMAN-31-1,,STANDARD_GERMAN,31,knoX3n,knoX3n,k n o χ ə n,,,,false,^ k n o X 3 n $,default,bone
+STANDARD_GERMAN-34-1,,STANDARD_GERMAN,34,horn,horn,h o r n,,,,false,^ h o r n $,default,horn
+STANDARD_GERMAN-39-1,,STANDARD_GERMAN,39,or,or,o r,,,,false,^ o r $,default,ear
+STANDARD_GERMAN-40-1,,STANDARD_GERMAN,40,aug3,aug3,ɐ u g ə,,,,false,^ a u g 3 $,default,eye
+STANDARD_GERMAN-41-1,,STANDARD_GERMAN,41,naz3,naz3,n ɐ z ə,,,,false,^ n a z 3 $,default,nose
+STANDARD_GERMAN-43-1,,STANDARD_GERMAN,43,chn,ch~an,tsʰ ɐ n,,,,false,^ ch~ a n $,default,tooth
+STANDARD_GERMAN-44-1,,STANDARD_GERMAN,44,chN3,ch~uN3,tsʰ u ŋ ə,,,,false,^ ch~ u N 3 $,default,tongue
+STANDARD_GERMAN-47-1,,STANDARD_GERMAN,47,kni,kni,k n i,,,,false,^ k n i $,default,knee
+STANDARD_GERMAN-48-1,,STANDARD_GERMAN,48,hant,hant,h ɐ n t,,,,false,^ h a n t $,default,hand
+STANDARD_GERMAN-51-1,,STANDARD_GERMAN,51,brust,brust,b r u s t,,,,false,^ b r u s t $,default,breast
+STANDARD_GERMAN-53-1,,STANDARD_GERMAN,53,leb3r,leb3r,l e b ə r,,,,false,^ l e b 3 r $,default,liver
+STANDARD_GERMAN-54-1,,STANDARD_GERMAN,54,triNk3n,triNk3n,t r i ŋ k ə n,,,,false,^ t r i N k 3 n $,default,drink
+STANDARD_GERMAN-57-1,,STANDARD_GERMAN,57,ze3n,ze3n,z e ə n,,,,false,^ z e 3 n $,default,see
+STANDARD_GERMAN-58-1,,STANDARD_GERMAN,58,her3n,her3n,h e r ə n,,,,false,^ h e r 3 n $,default,hear
+STANDARD_GERMAN-61-1,,STANDARD_GERMAN,61,Sterb3n,Sterb3n,ʃ t e r b ə n,,,,false,^ S t e r b 3 n $,default,die
+STANDARD_GERMAN-66-1,,STANDARD_GERMAN,66,khm3n,kh~om3n,kʰ o m ə n,,,,false,^ kh~ o m 3 n $,default,come
+STANDARD_GERMAN-72-1,,STANDARD_GERMAN,72,zon3,zon3,z o n ə,,,,false,^ z o n 3 $,default,sun
+STANDARD_GERMAN-74-1,,STANDARD_GERMAN,74,StErn,StErn,ʃ t a r n,,,,false,^ S t E r n $,default,star
+STANDARD_GERMAN-75-1,,STANDARD_GERMAN,75,vas3r,vas3r,v ɐ s ə r,,,,false,^ v a s 3 r $,default,water
+STANDARD_GERMAN-77-1,,STANDARD_GERMAN,77,Stain,Stain,ʃ t ɐ i n,,,,false,^ S t a i n $,default,stone
+STANDARD_GERMAN-82-1,,STANDARD_GERMAN,82,foia,foia,f o i ɐ,,,,false,^ f o i a $,default,fire
+STANDARD_GERMAN-85-1,,STANDARD_GERMAN,85,pft,pf~at,pf ɐ t,,,,false,^ pf~ a t $,default,path
+STANDARD_GERMAN-85-2,,STANDARD_GERMAN,85,vek,vek,v e k,,,,false,^ v e k $,default,path
+STANDARD_GERMAN-86-1,,STANDARD_GERMAN,86,bErk,bErk,b a r k,,,,false,^ b E r k $,default,mountain
+STANDARD_GERMAN-92-1,,STANDARD_GERMAN,92,naXt,naXt,n ɐ χ t,,,,false,^ n a X t $,default,night
+STANDARD_GERMAN-95-1,,STANDARD_GERMAN,95,fol,fol,f o l,,,,false,^ f o l $,default,full
+STANDARD_GERMAN-96-1,,STANDARD_GERMAN,96,noi,noi,n o i,,,,false,^ n o i $,default,new
+STANDARD_GERMAN-100-1,,STANDARD_GERMAN,100,nam3,nam3,n ɐ m ə,,,,false,^ n a m 3 $,default,name
